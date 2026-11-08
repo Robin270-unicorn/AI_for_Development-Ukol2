@@ -1,0 +1,4 @@
+pypdf>=6,<7
+sentence-transformers==5.1.2
+transformers>=4.41,<5
+sqlite-vec==0.1.9
